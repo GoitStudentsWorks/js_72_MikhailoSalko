@@ -2,7 +2,7 @@
   "name": "jssf-javascript-special-forces",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MikhailoSalko.github.io/JSSF-JavaScript-Special-Forces",
+  "homepage": "https://GoitStudentsWorks.github.io/js_72_MikhailoSalko",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /JSSF-JavaScript-Special-Forces/"
